@@ -1,6 +1,6 @@
 # crud_flutter_mysql
 
-A new Flutter project.
+Repository ini berisi kode untuk aplikasi sederhana manajemen inventaris, 'MyStore', yang dibangun dengan menggunakan MySQL sebagai basis data. Kode ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) terhadap entitas seperti stok dan nama barang. Ia memanfaatkan bahasa pemrograman Dart dengan mengggunakan framework flutter untuk membangun antarmuka pengguna yang sederhana dan efektif.
 
 ## Getting Started
 
